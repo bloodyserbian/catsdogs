@@ -1,0 +1,53 @@
+
+html {
+font-size: 14px
+font-family: 'Open Sans', sans-serif;
+font-family: 'Akronim', cursive;
+font-family: 'Stylish', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Modak', cursive;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Just Another Hand', cursive;
+    background-color:#af2180
+}
+
+a:hover {color:crimson}
+
+body{
+  width: 600px;
+  margin: 20px auto;
+  background-color: #f79ecc;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;}
+
+h {font-size: 30px}
+
+h2 {
+  font-size: 60px;
+  text-align: center;
+    font-family: 'Akronim';
+    margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+    
+}
+
+h3,h4 {text-align: center}
+h4 {transform: scale(1, -1)}
+
+p, li {
+    
+    font-family: 'Nanum Gothic';
+  font-size: 14px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+img {width: 600px;
+   display: block;
+  margin: 0 auto;
+
+}
+
+a {font-family: 'Akronim'}
